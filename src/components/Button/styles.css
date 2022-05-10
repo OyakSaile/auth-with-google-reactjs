@@ -1,0 +1,17 @@
+button {
+  display: flex;
+  padding: 1rem 2rem;
+  background: transparent;
+  color: #fff;
+  border: 1px solid #fff;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  transition: background .2s;
+  align-items: center;
+  justify-content: center;
+}
+
+button:hover {
+  background: rgb(15, 15, 75);
+
+}
